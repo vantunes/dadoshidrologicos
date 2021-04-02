@@ -1,5 +1,5 @@
-DATA,ALCARIA (12L/04UG),,BARRAGEM DO COV√O DE FERRO (12L/01U),,COVILH√ (12L/03G),,SILVARES (13K/02UG),,SOBRAL DE S√O MIGUEL (12K/01UG),,
-,PrecipitaÁ„o di·ria m·xima anual (mm),FLAG,PrecipitaÁ„o di·ria m·xima anual (mm),FLAG,PrecipitaÁ„o di·ria m·xima anual (mm),FLAG,PrecipitaÁ„o di·ria m·xima anual (mm),FLAG,PrecipitaÁ„o di·ria m·xima anual (mm),FLAG,
+DATA,ALCARIA (12L/04UG),,BARRAGEM DO COV√ÉO DE FERRO (12L/01U),,COVILH√É (12L/03G),,SILVARES (13K/02UG),,SOBRAL DE S√ÉO MIGUEL (12K/01UG),,
+,Precipita√ß√£o di√°ria m√°xima anual (mm),FLAG,Precipita√ß√£o di√°ria m√°xima anual (mm),FLAG,Precipita√ß√£o di√°ria m√°xima anual (mm),FLAG,Precipita√ß√£o di√°ria m√°xima anual (mm),FLAG,Precipita√ß√£o di√°ria m√°xima anual (mm),FLAG,
 08/12/1932 09:00,,,,,,,78.2,,,,
 06/10/1933 09:00,,,,,,,67,,,,
 08/12/1934 09:00,,,,,,,44,,,,
@@ -143,8 +143,3 @@ DATA,ALCARIA (12L/04UG),,BARRAGEM DO COV√O DE FERRO (12L/01U),,COVILH√ (12L/03G)
 26/11/2016 09:00,,,,,73.3,(vc),,,,,
 01/03/2018 09:00,,,,,63.2,(vc),,,,,
 26/08/2019 09:00,,,,,34,(vc),,,,,
-
-(vc) Valor calculado pois falha valor introduzido
-(vd) Valor calculado diferente do valor introduzido
-
-Dados obtidos atravÈs do site http://snirh.apambiente.pt em 11/12/2020 20:44
